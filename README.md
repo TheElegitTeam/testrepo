@@ -1,4 +1,4 @@
-# testrepo
+git is fun!
 Just for testing and trying things
 Now trying something else
 1123
